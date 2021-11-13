@@ -230,6 +230,7 @@
 
 .subscribe {
     height: 448px;
+    background: url(../img/subscribe_back.png) no-repeat;
 }
 
 .subscribe__wrap {
@@ -237,7 +238,6 @@
     display: flex;
     align-items: center;
     justify-content: flex-end;
-    background: url(../img/subscribe_back.png) no-repeat;
 }
 
 .subscribe__left {
